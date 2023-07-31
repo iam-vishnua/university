@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img.slide{
+    height:600px;
+    opacity:80%;
+    
+    
+    
+}
+h1.quote1{
+    color:white;
+    font-size: 50px;
+    
+    
+    
+    font-weight: bold;
+
+    
+}
+h2.quote2{
+    color:white;
+    font-weight: bold;
+}
+a.text-danger{
+    color: orangered!important;
+    font-size: 30px;
+}
+button.btn-danger{
+    background-color: orangered!important;
+}
+
+
+a.nav-link{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.win{
+    color:white;
+}
+
+.carousel-caption{
+    position:absolute;
+    top:50%;
+    left: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button.join:hover{
+    background-color:orangered;
+    color: white;
+}
+div.images{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content:space-evenly;
+}
+h1.items{
+    text-align: center;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
+div.card{
+    border:2px solid red;
+    justify-content: center;
+}
+h1.importance{
+    text-align: center;
+}
+.socialicons{
+    display: flex;
+    justify-content: center;
+    
+}
+.socialicons a{
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    margin:10px;
+    text-decoration: none;
+}
+
+.foter{
+    width:100%;
+    background-color: black;
+    padding:50px;
+}
+.socialicons a:hover{
+    background-color: orangered;
+    transition: 0.5s;
+}
+.footernav ul {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 15px;
+    
+}
+.footernav ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.footernav ul li a:hover{
+    font-size: 1.3em;
+    color: orangered;
+    transition: 0.5s;
+}
+.copy{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.footernav ul li{
+    list-style-type:none;
+}
+.card-text{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    
+
+.row{
+    justify-content: center;
+    
+    
+}
+div.rate{
+    display:flex;
+}
+.col-8{
+    border:1px solid blue;
+    
+    height: 100px;
+}
+.reviews{
+    background-image:url("img/pexels-krivec-ales-551852.jpg") ;
+    background-position: center;
+    background-size: cover;
+}
+.reviews h5 {
+    color: white;
+    font-weight: bold;
+}
+.reviews h2{
+    color: white;
+    font-weight: bold;
+}
+.reviews p{
+    color: white;
+    font-weight: bold;
+}
+.bi{
+    color:yellow;
+}
+.coursesoffered{
+    background-image: url("img/pexels-miguel-á-padriñán-19670.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
